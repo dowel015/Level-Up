@@ -1,0 +1,28 @@
+- Refine/finalize table creation for comp table (UID etc)
+
+- Figure out how to consistently
+    - import modules
+    - install libraries
+
+- Figure out env/virtual environment/pipenv
+
+- Finalize DB schemae
+
+- Michael Murphy stuff
+
+- timeline
+    - populate events table
+    - finalize remaining tables' schemae
+    - update readme/documentation
+    - clean up code & repo
+    - refactor python into script to be run by php (Dockeresque?)
+
+- testing?
+    - unit tests
+        - in python this week.
+    - DB tests?
+        - later, once expert SQL programmer.
+
+- Get back to Boman for API
+
+- select linter

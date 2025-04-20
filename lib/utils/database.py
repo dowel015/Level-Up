@@ -9,7 +9,7 @@ def getDB():
     mydb = mysql.connector.connect(
         host="mysql.danoc14.dreamhosters.com",
         user="danoc14dreamhost",
-        passwd="QPdwbeL*",
+        passwd="",
         database="danoc14_dreamhosters_com"
     )
 
